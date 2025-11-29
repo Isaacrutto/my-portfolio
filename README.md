@@ -1,8 +1,8 @@
-## my portfolio website
+# my portfolio website
 
 this is a portfolio website made using the following tech stack
 
-# frontend - React Vite
+## frontend - React Vite
 
 to run this application use the following command
 
